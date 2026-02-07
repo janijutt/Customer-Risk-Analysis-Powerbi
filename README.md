@@ -1,5 +1,7 @@
 # Customer Risk Analysis Dashboard (Power BI)
 
+https://app.powerbi.com/view?r=eyJrIjoiYzJjYjgzNmQtZGMxOS00NWM3LTk1NmQtZDZhOWNiNjc0ZmI0IiwidCI6IjgyMGVlMTdmLTc3YTYtNDIxNi05NTIxLTlhODBmNmU1NzEwOCJ9&pageName=17c1340eb3a99cded69f
+
 ## 📌 Project Overview
 This project focuses on identifying customers with elevated churn risk in a retail banking context.
 The dashboard is designed to support **targeted retention actions** by segmenting customers into risk levels and highlighting the key drivers behind churn risk.
