@@ -20,7 +20,7 @@ Unlike high-level reporting dashboards, this analysis emphasizes **actionability
 
 ## 📊 Dashboard: Customer Risk Analysis
 
-![Customer Risk Analysis](screenshots/customer_risk_analysis.png)
+[![Customer Risk Analysis](screenshots/customer_risk_analysis.png)](https://github.com/janijutt/Customer-Risk-Analysis-Powerbi/blob/main/Project%20SS.png)
 
 ### Key Components
 - **Risk Segmentation**: Customers classified into High, Medium, and Low risk groups
